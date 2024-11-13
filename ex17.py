@@ -13,7 +13,7 @@ def encontra_palavra(texto, palavra):
     return -1 
 
 texto = "Luiz Otávio Medola"
-palavra = "Lindo"
+palavra = "Otávio"
 print(encontra_palavra(texto, palavra))  
 
 palavra = "Luiz"
