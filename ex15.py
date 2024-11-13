@@ -18,5 +18,5 @@ def ocorrencias_palavras(texto):
     
     return contagem
 
-texto = "Vai Corinthians, O Palmeiras não tem mundial!!, Corinthians melhor time do Brasil!!!"
+texto = "brasil, brasil, brasil!!!"
 print(ocorrencias_palavras(texto))
